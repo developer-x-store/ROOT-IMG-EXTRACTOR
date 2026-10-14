@@ -1,4 +1,4 @@
-#### ROOT-IMG-EXTRACTOR
+### ROOT-IMG-EXTRACTOR
 <!-- ================= HEADER SECTION 
 
   <h1>⚡ Root IMG Extractor</h1>
