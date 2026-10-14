@@ -6,7 +6,7 @@
   <p><strong>One Tap Firmware Image Extractor for Rooted Android Devices</strong></p>
 
   <!-- BADGES -->
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases">
+  <a href="https://github.com/developer-x-store/ROOT-IMG-EXTRACTOR/releases/download/ROOT-IMG-EXTRACTOR/ROOT.IMG.EXTRACTOR_.apk">
     <img src="https://img.shields.io/badge/Download-APK-00FFFF?style=for-the-badge&logo=android" alt="Download APK">
   </a>
   <img src="https://img.shields.io/badge/Platform-Android_8.0+-3DDC84?style=for-the-badge&logo=android" alt="Platform">
