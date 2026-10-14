@@ -37,15 +37,6 @@
 
 ---
 
-## 📖 Table of Contents
-- [✨ Features](#-features)
-- [📸 Screenshots](#-screenshots)
-- [⚙️ How to Use](#️-how-to-use)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [⚠️ Disclaimer](#️-disclaimer)
-- [👨‍💻 Developer](#-developer)
-
----
 
 ## ✨ Features
 
@@ -60,14 +51,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Root Permission Check | Main Dashboard (Empty) | Partition List & Selection |
-| :---: | :---: | :---: |
-| <img src="YOUR_IMAGE_LINK_1" width="280" style="border-radius: 10px; border: 1px solid #FF0055;"> | <img src="YOUR_IMAGE_LINK_2" width="280" style="border-radius: 10px; border: 1px solid #00FFFF;"> | <img src="YOUR_IMAGE_LINK_3" width="280" style="border-radius: 10px; border: 1px solid #00FF00;"> |
-| *Checks for Root access* | *Waiting for partition scan* | *Scanned 73 partitions with A/B slots* |
-
----
 
 ## ⚙️ How to Use
 
