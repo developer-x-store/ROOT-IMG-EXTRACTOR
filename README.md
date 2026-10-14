@@ -1,8 +1,5 @@
-# ROOT-IMG-EXTRACTOR
-<!-- ================= HEADER SECTION ================= -->
-<div align="center">
-  
-  <img src="YOUR_APP_ICON_LINK_HERE" alt="Root IMG Extractor Logo" width="150" height="150" style="border-radius: 20px; box-shadow: 0px 0px 20px #00FFFF;">
+#### ROOT-IMG-EXTRACTOR
+<!-- ================= HEADER SECTION 
 
   <h1>⚡ Root IMG Extractor</h1>
   
